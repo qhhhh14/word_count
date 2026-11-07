@@ -1,0 +1,7 @@
+# Word Count
+
+一个Python词频统计脚本。读取 `sample.txt`，统计每个单词出现次数，按从高到低打印。
+
+## 运行方式
+
+python word_count.py
